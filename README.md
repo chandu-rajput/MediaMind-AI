@@ -2,7 +2,8 @@
 
 An AI-powered video and audio assistant that transforms YouTube videos and uploaded recordings into structured notes and interactive conversations.
 
-> Add a screenshot or short screen recording of the app here.
+<img width="1915" height="911" alt="Screenshot 2026-11-11 070112" src="https://github.com/user-attachments/assets/4d0d15aa-57e3-451d-bc3d-628cc1ba9ebe" />
+
 
 ## Features
 
