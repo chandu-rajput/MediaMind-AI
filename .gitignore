@@ -1,0 +1,47 @@
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded and temporary files
+downloads/
+temp/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.mkv
+*.mov
+*.webm
+
+# Vector database
+vector_db/
+chroma_db/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
